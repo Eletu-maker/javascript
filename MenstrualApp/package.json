@@ -1,0 +1,16 @@
+{
+  "name": "menstrual-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "menstrual_app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
