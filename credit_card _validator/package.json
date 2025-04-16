@@ -1,0 +1,16 @@
+{
+  "name": "credit_card-_validator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "card_validator_function.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
